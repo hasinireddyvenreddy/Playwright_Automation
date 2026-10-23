@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Log files
+logs/*.log
+
+# Generated output
+output/
+
+# Playwright test artifacts
+test-results/
+playwright-report/
